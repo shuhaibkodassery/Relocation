@@ -77,7 +77,7 @@
 
 <!-- Header Starts -->
 <div class="header">
-<a href="index.php"><img src="images/relocator.png" alt="Relocator"></a>
+<a href="index.php"><img src="images/relocator.png" alt="Relocator" height="100px"></a>
 
               <ul class="pull-right">
                 <li><a href="buysalerent.php">Buy</a></li>
