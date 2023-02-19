@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Realestate Bootstrap Theme </title>
+<title>Relocator | The Complete Realestate Solutions</title>
 <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
@@ -77,7 +77,7 @@
 
 <!-- Header Starts -->
 <div class="header">
-<a href="index.php"><img src="images/logo.png" alt="Realestate"></a>
+<a href="index.php"><img src="images/relocator.png" alt="Relocator"></a>
 
               <ul class="pull-right">
                 <li><a href="buysalerent.php">Buy</a></li>

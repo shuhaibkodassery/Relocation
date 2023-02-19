@@ -81,11 +81,10 @@
       </div><!-- /slider-wrapper -->
 </div>
 
-
-
+<!-- banner -->
+<!--
 <div class="banner-search">
   <div class="container"> 
-    <!-- banner -->
     <h3>Buy, Sale & Rent</h3>
     <div class="searchbar">
       <div class="row">
@@ -130,6 +129,7 @@
     </div>
   </div>
 </div>
+-->
 <!-- banner -->
 <div class="container">
   <div class="properties-listing spacer"> <a href="buysalerent.php" class="pull-right viewall">View All Listing</a>

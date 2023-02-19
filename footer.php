@@ -36,10 +36,10 @@
 
              <div class="col-lg-3 col-sm-3">
                     <h4>Contact us</h4>
-                    <p><b>Bootstrap Realestate Inc.</b><br>
-<span class="glyphicon glyphicon-map-marker"></span> 8290 Walk Street, Australia <br>
-<span class="glyphicon glyphicon-envelope"></span> hello@bootstrapreal.com<br>
-<span class="glyphicon glyphicon-earphone"></span> (123) 456-7890</p>
+                    <p><b>Relocator Realestate Solutions</b><br>
+<span class="glyphicon glyphicon-map-marker"></span> Sulthan Bathery, Wayanad<br>
+<span class="glyphicon glyphicon-envelope"></span> relocationwyd@gmail.com <br>
+<span class="glyphicon glyphicon-earphone"></span> +91 9746007159</p>
             </div>
         </div>
 <p class="copyright">Copyright 2013. All rights reserved.	</p>
