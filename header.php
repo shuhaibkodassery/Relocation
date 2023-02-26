@@ -3,10 +3,20 @@
 <head>
 <title>Relocator | The Complete Realestate Solutions</title>
 <meta charset="UTF-8" />
+
+<meta property="og:type" content="website" />
+<meta name="og_site_name" property="og:site_name" content="http://relocator.rf.gd">
+
+<meta property="og:url" content="http://relocator.rf.gd">
+<meta property="og:image:url"  content="images/relocator.png"  />
+<meta property="og:image" content="images/relocator.png" />
+<meta name="keywords" content="best real-estate solutions company in india, best real-estate company in india, best real-estate company in kerala" />
+<meta name="robots" content="INDEX,FOLLOW">
+
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="title" content="Relocator | The Complete Realestate Solutions"/>
   <meta name="description" content="Relocator | The Complete Realestate Solutions"/>
-  <meta name="robots" content="index, follow"/>
 
  	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" />
   <link rel="stylesheet" href="assets/style.css"/>
